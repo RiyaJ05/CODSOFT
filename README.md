@@ -72,6 +72,6 @@ Below is a summary of the tasks I will be working on during this internship:
 ## Contact Information
 If you have any questions or feedback, feel free to reach out:
 
-Email: riyajohari@gmail.com
-LinkedIn: [Riya Johari](https://www.linkedin.com/in/riya-johari-547181259/)
-GitHub: [RiyaJ05](https://github.com/RiyaJ05)
+1. Email: riyajohari@gmail.com
+2. LinkedIn: [Riya Johari](https://www.linkedin.com/in/riya-johari-547181259/)
+3. GitHub: [RiyaJ05](https://github.com/RiyaJ05)
