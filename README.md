@@ -15,9 +15,7 @@ During this internship, I will be completing at least three Python programming t
 1. [Tasks Overview](#tasks-overview)
 2. [Technologies Used](#technologies-used)
 3. [Task Details](#task-details)
-4. [How to Run the Projects](#how-to-run-the-projects)
-5. [Video Demonstrations](#video-demonstrations)
-6. [Contact Information](#contact-information)
+4. [Contact Information](#contact-information)
 
 ## Tasks Overview
 
