@@ -69,7 +69,7 @@ Below is a summary of the tasks I will be working on during this internship:
 - **Features:** Add, view, search, update, and delete contacts.
 - **Tools:** Python, tkinter for GUI, JSON for data storage.
 
-### Contact Information
+## Contact Information
 If you have any questions or feedback, feel free to reach out:
 
 Email: riyajohari@gmail.com
