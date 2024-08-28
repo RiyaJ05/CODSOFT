@@ -21,8 +21,8 @@ During this internship, I will be completing at least three Python programming t
 
 Below is a summary of the tasks I will be working on during this internship:
 
-1. **To-Do List Application:** A command-line or GUI-based application that helps users manage and organize their tasks efficiently.
-2. **Calculator:** A simple calculator that performs basic arithmetic operations.
+1. [To-Do List Application](https://github.com/RiyaJ05/CodSoft_Internship_Task1_ToDoList)  
+   A command-line or GUI-based application that helps users manage and organize their tasks efficiently.2. **Calculator:** A simple calculator that performs basic arithmetic operations.
 3. **Password Generator:** An application that generates strong and random passwords based on user-specified criteria.
 4. **Rock-Paper-Scissors Game:** A game where the user competes against the computer in a classic rock-paper-scissors showdown.
 5. **Contact Book:** An application to store, manage, and search contact information.
